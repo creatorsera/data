@@ -1,0 +1,5 @@
+title: CSV Merger
+description: A Jekyll-based CSV merging tool
+theme: minima
+plugins:
+  - jekyll-feed
