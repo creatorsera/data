@@ -3,3 +3,5 @@ description: A Jekyll-based CSV merging tool
 theme: minima
 plugins:
   - jekyll-feed
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
